@@ -1,7 +1,8 @@
 # Graham scan - Convex Hull - Sketch - Animation
 Algorithm finds the Convex Hull given a set of points and animates it with matplotlib
 
-## Dependencies  
+## Dependencies
+     pip install mysql-connector  
   matplotlib  
   random  
   numpy  
