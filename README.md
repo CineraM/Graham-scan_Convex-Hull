@@ -2,10 +2,10 @@
 Algorithm finds the Convex Hull given a set of points and animates it with matplotlib
 
 ## Dependencies  
-  matplotlib
-  random
-  numpy
-  math
+  matplotlib  
+  random  
+  numpy  
+  math  
      
 ## Animation Sketch  
 
