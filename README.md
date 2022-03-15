@@ -2,11 +2,10 @@
 Algorithm finds the Convex Hull given a set of points and animates it with matplotlib
 
 ## Dependencies
-     pip install mysql-connector  
-  matplotlib  
-  random  
-  numpy  
-  math  
+     pip install matplotlib  
+     pip install numpy 
+     import random  
+     import math  
      
 ## Animation Sketch  
 
